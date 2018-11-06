@@ -1,0 +1,12 @@
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
+/.idea/
+/bin/
+!/bin/console
+/.env
+/public/bundles/
+/var/
+/vendor/
+/.php_cs.cache
